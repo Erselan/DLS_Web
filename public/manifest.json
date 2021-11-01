@@ -1,0 +1,40 @@
+{
+  "short_name": "DLS",
+  "name": "Deep Learning System",
+  "icons": [
+    {
+      "src": "dls.png",
+      "type": "image/png",
+      "sizes": "902x869"
+    },
+    {
+      "src": "dls16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "dls32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "dls180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "dls192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "dls512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#0b959b",
+  "background_color": "#ffffff"
+}
